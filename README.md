@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with [building compiler](https://github.com/Chinmay-395/Principles-Of-Programming)
 
-- 👨‍💻 All of my projects are available at [https://chinmay-dali-395.herokuapp.com/](https://chinmay-dali-395.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://chinmay-dali-395.herokuapp.com/](https://github.com/Chinmay-395/)
 
 - 📫 How to reach me **cdali@stevens.edu**
 
-- 📄 Know about my experiences [https://chinmay-395.github.io/Resume/](https://chinmay-395.github.io/Resume/)
+- 📄 Know about my experiences [RESUME LINK](https://chinmay-395.github.io/Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chinmay-395&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-395&hide=tcl,openEdge&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-395&hide=OpenEdge+ABL,tcl,python,html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
