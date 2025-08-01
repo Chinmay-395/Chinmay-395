@@ -26,7 +26,6 @@ I'm actively exploring advanced compiler optimizations, LLVM-based IR transforma
 ## 🚀 Featured Projects
 
 ### 🔧 [C-Like Compiler](https://github.com/Chinmay-395/Compiler)  
-![Compiler](./compiler.jpeg)  
 > A full-stack compiler that translates a C-like imperative language to optimized x86 assembly. Built in OCaml with LLVM-style backend — includes all major phases like lexical analysis, parsing, semantic checks, and codegen.  
 **Tech:** OCaml · C++ · x86 · LLVM
 
@@ -40,14 +39,12 @@ I'm actively exploring advanced compiler optimizations, LLVM-based IR transforma
 ---
 
 ### 🔡 [Dysfunctionally Functional Language](https://github.com/Chinmay-395/Principles-Of-Programming/tree/main)  
-![PL Theory](./PL_theory.png)  
 > A Programming Language Theory (PLT) project — incrementally builds a functional language from scratch, covering type systems, recursion, references, and evaluation strategies.  
 **Tech:** OCaml
 
 ---
 
 ### 🚕 [Uber Clone](https://github.com/Chinmay-395/Ride-Hailing)  
-![Uber](./uberClone.png)  
 > A full-stack ride-hailing app with real-time tracking, WebSocket-powered updates, and JWT-based authentication.  
 **Tech:** Django · DRF · WebSockets · React.js · Cypress · RxJS
 
