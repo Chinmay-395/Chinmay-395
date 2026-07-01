@@ -32,7 +32,7 @@ I'm actively exploring advanced compiler optimizations, LLVM-based IR transforma
 ---
 
 ### 💬 [Tiny Chat App](https://github.com/Chinmay-395/CS511-Concurrent-Programming/tree/deploy)  
-![Chat](./chat_example.png)  
+![Chat](https://github.com/Chinmay-395/CS511-Concurrent-Programming/blob/deploy/tinyChat/chat_example.png)  
 > Lightweight chat application using **Erlang** for high concurrency. Showcases process-based messaging, fault tolerance, and real-time updates.  
 **Tech:** Erlang · Groovy
 
