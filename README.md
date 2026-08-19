@@ -66,7 +66,7 @@ I'm actively exploring advanced compiler optimizations, LLVM-based IR transforma
 ## 📈 Work Experience
 
 ### 🏢 [Corebridge Financial](https://www.corebridgefinancial.com/) — *Software Engineer*  
-**Jan 2024 – Present, New York Metropolitan Area**  
+**August 2024 – August 2026, New York Metropolitan Area**  
 - Reduced processing time by 70% by optimizing microservices (Spring Boot, Java).
 - Cut API latency by 20% via WebFlux and Apache Kafka.
 - Deployed on AWS EC2, utilized S3, and reduced server response time by 25%.
