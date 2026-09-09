@@ -64,7 +64,7 @@ If generation outpaces verification, maintainers will be overwhelmed. The succes
 
 ## Final Thoughts
 
-I really enjoyed this exercise. I personally feel AI can help us not just search, but find entirely *new* optimizations. It has solved math olympiad problems and shown glimpses of genuine creativity. 
+I personally feel AI can help us not just search, but find entirely *new* optimizations. It has solved math olympiad problems and shown glimpses of genuine creativity. 
 
 However, in a business environment, the engineer who merges AI-generated code into production is ultimately responsible for the resulting maintenance costs. 
 
